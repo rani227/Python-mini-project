@@ -1,2 +1,2 @@
 # Python-mini-project
-This is a mini Quiz application developed using Tkinter.
+This is a Python group project done during 2nd semester of my B.Tech course at NIT Kurukshetra. In this project, we have created a mini Quiz application using Tkinter and Pillow modules available in Python. The Quiz consits of three levels : easy, Moderate and difficult and one can move to the next level after completing the previous one. After the completion of each level, the scores are displayed. One can also refer to the rules before starting the Quiz.
