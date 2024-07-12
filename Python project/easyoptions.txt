@@ -1,0 +1,9 @@
+Agni;Indra;Hanuman;Ganesha
+Dirghaayu;Suhagan;Chiranjeevi;Sushil
+Football,Squash;Badminton,Tennis;Badminton,Cricket;Hockey,Cricket
+Flower;Fruit;Tree;Sweet
+Bengali;Marathi;Tamil;Malayali
+Area;Circumference;Center;Radius
+Football;Cricket;Badminton;Tennis
+Mobile no.;Jalebis;Visiting Cards;Garlands
+Heartbeat;Blood pressure;Blood Sugar;Vision

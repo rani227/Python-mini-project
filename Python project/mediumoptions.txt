@@ -1,0 +1,10 @@
+Narmada;Mahanadi;Son;Netravati
+Chennai;Cuttack;Bangalore";Quilon
+Kalidasa;Charak;Panini;Aryabhatt
+Alaknanda;Pindar;Mandakini;Bhagirathi
+Zinc;Silver;Copper;Aluminum
+Yoga Sutra;Panchatantra;Brahma Sutra;Ayurveda
+Rann of Kachchh;Arabian Sea;Gulf of Cambay;Lake Sambhar
+Pennar;Cauvery;Krishna;Tapti
+China;India;Russia;France
+Hurricanes;Earthquakes;Undersea landslides;Volcanic eruptions
